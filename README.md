@@ -2,6 +2,8 @@
 
 Claude 구독 플랜의 사용량(5시간 세션 / 주간 한도)을 Windows 데스크톱에 항상 표시하는 초경량 위젯입니다.
 
+![위젯 HUD — 세션·주간 사용률과 리셋 카운트다운](docs/screenshot.png)
+
 단일 C# 소스 파일 하나, **외부 의존성 0** — Windows에 내장된 .NET Framework `csc.exe`만으로 빌드됩니다. NuGet도, 런타임 설치도 필요 없습니다.
 
 ## 기능
